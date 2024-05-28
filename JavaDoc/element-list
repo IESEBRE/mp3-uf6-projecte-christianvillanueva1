@@ -1,0 +1,8 @@
+org.example.app
+org.example.Controlador
+org.example.model.daos
+org.example.Model.entities
+org.example.Model.exceptions
+org.example.model.impls
+org.example.Model.impls
+org.example.Vista

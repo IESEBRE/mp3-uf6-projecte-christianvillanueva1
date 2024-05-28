@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="399bfe15-433d-4b58-b85b-798a6a0787e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Model/daos/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Model/impls/DBProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Model/impls/OracleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PLSQL/pl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../PLSQL/pl.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/libraries/mysql_connector_java.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/app/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/model/daos/DAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/model/entities/Alumne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/model/exceptions/DAOException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/model/impls/AlumneDAOJDBCOracleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/view/MatriculaView.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/view/MatriculaView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlantillaDAOMVCOracle/src/main/java/org/example/view/ModelComponentsVisuals.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ejEE474f7U7YJKEIRqjlIj5VeY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChException.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Maven.Projecte [clean].executor": "Run",
+    "Maven.Projecte [install].executor": "Run",
+    "Maven.Projecte [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ProjecteANTIC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ProjecteANTIC" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-ffffd64d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="399bfe15-433d-4b58-b85b-798a6a0787e6" name="Changes" comment="" />
+      <created>1712409472808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712409472808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

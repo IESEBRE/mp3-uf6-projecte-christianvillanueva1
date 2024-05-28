@@ -1,0 +1,57 @@
+@options
+@packages
+-classpath
+'/home/alumne/.m2/repository/com/oracle/ojdbc8/18.4/ojdbc8-18.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/src/main/java:/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Projecte 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Projecte 1.0-SNAPSHOT API'
+org.example.Vista
+org.example.Model.entities
+org.example.Model.impls
+org.example.Model.daos
+org.example.Model.exceptions
+org.example.Controlador
+org.example.app
+/home/alumne/.m2/repository/com/oracle/ojdbc8/18.4/ojdbc8-18.4.jar = 1530042606000
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/src/main/java = 1715547695012
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/generated-sources/annotations = 1716889103368
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/tag-search-index.js = 1716889127088
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/search.html = 1716889127120
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/overview-tree.html = 1716889127044
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/serialized-form.html = 1716889126952
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/search-page.js = 1716889127144
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/script.js = 1716889127140
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/copy.svg = 1716889127140
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/constant-values.html = 1716889126904
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/member-search-index.js = 1716889127088
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/overview-summary.html = 1716889127124
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/stylesheet.css = 1716889127140
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/search.js = 1716889127144
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/index-all.html = 1716889127116
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/element-list = 1716889126820
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/module-search-index.js = 1716889127084
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/index.html = 1716889127048
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/help-doc.html = 1716889127136
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/allclasses-index.html = 1716889127072
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/allpackages-index.html = 1716889127076
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/package-search-index.js = 1716889127088
+/home/alumne/Documents/M03 Programacio/UF6/mp3-uf6-projecte-christianvillanueva1/Projecte/target/apidocs/type-search-index.js = 1716889127088
